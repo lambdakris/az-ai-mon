@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TR",
+    "description": "TR",
+    "category": "Source Service",
+    "type": "Retrieval API",
+    "endpoint": "http://api.tr.com",
+    "auth_type": "None",
+    "is_active": true,
+    "access_level": "Public",
+    "id": "e9ac346e-7575-41da-b659-6cdd9028eba9"
+  }
+]
